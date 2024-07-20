@@ -1,5 +1,4 @@
 # COMT-MusicApp
-Computational Thinking &amp; UX design
 
 Application Name: MUSE  
 Intention: Users can stream music for free  
